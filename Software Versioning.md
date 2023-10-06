@@ -31,7 +31,7 @@ In addition to these segments, you can also include optional labels or metadata:
 
 -----
 
-# #2 Templates for versioning systems commonly used in web application development:
+## #2 Templates for versioning systems commonly used in web application development:
 <br />
 
 **Date-Based Versioning:**
