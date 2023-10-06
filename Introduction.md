@@ -26,6 +26,19 @@ Software development is the process of designing, creating, and maintaining soft
 Legacy software refers to older computer programs or systems that are outdated but still in use due to their critical functions or the cost and effort required to replace them. An example of legacy software is the COBOL-based systems used in many financial institutions, which were developed decades ago and are still relied upon for their stability and reliability in handling financial transactions. These systems may lack modern features and can be challenging to maintain and integrate with newer technologies.
  - Wikipedia: https://en.wikipedia.org/wiki/Legacy_system
 
+## 7 broad categories of Computer software
+1. **System Software:** Microsoft Windows, Linux, Mac.
+2. **Application Software:** MS Office, Photoshop.
+3. **Scientific Software:** AutoCAD, MATLAB.
+4. **Embedded Software:** Firmware, Auto Engine Controle Software.
+5. **Product-Line Software:** MS Office396, Adobe, Google.
+6. **Web-Application**: CRM, school website.
+7. **Artifical Intellegence Software:** OpenAI, ChatGPT.
+
+## Changes in Software Nature:
+
+Web 1.0 -> Mobile App -> Cloud App -> Product-line App
+
 ## Software Engineering Layer
 ![image](https://github.com/KKBUGHUNTER/Software_Development/assets/91019132/0c7c0131-e5fc-4dd1-a161-eaccbb2e1e5a)
 
