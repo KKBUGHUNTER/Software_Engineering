@@ -30,6 +30,7 @@ In addition to these segments, you can also include optional labels or metadata:
 - Pre-release Version: `2.0.0-alpha.1`
 
 -----
+<br />
 
 ## #2 Templates for versioning systems commonly used in web application development:
 <br />
