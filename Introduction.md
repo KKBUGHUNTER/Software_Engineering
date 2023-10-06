@@ -26,6 +26,11 @@ Software development is the process of designing, creating, and maintaining soft
 Legacy software refers to older computer programs or systems that are outdated but still in use due to their critical functions or the cost and effort required to replace them. An example of legacy software is the COBOL-based systems used in many financial institutions, which were developed decades ago and are still relied upon for their stability and reliability in handling financial transactions. These systems may lack modern features and can be challenging to maintain and integrate with newer technologies.
  - Wikipedia: https://en.wikipedia.org/wiki/Legacy_system
 
+## Software crisis
+Software crisis refers to the challenges and problems that arise during software development, including cost overruns, missed deadlines, and poor-quality software. It often occurs due to the increasing complexity of software projects and the difficulty in managing them effectively.
+
+Example: The software development project for the Healthcare.gov website in the United States in 2013 experienced a software crisis when it launched with numerous technical issues, including performance problems and security vulnerabilities, leading to public outcry and delays in enrollment for healthcare services.
+
 ## 7 broad categories of Computer software
 1. **System Software:** Microsoft Windows, Linux, Mac.
 2. **Application Software:** MS Office, Photoshop.
