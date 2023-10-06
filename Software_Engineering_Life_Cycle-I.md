@@ -54,7 +54,7 @@ pre-development --> development specific phase --> post-developement
 
 <div align=center> <h3>
   
-  [Previous](https://github.com/KKBUGHUNTER/Software_Development/blob/main/Introduction.md)  -----------  [Next]()
+  [Previous](https://github.com/KKBUGHUNTER/Software_Development/blob/main/Introduction.md)  -----------  [Next](https://github.com/KKBUGHUNTER/Software_Development/blob/main/Methodologies_paradigm_and_practices.md)
   
   </p3> </div>
 <br />
