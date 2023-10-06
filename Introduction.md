@@ -39,4 +39,4 @@ Legacy software refers to older computer programs or systems that are outdated b
 7. **Think:** Critical thinking and problem-solving skills are essential, encouraging software engineers to approach challenges with thoughtful analysis and creative solutions, promoting innovation and effectiveness.
 
 
-[Next](https://github.com/KKBUGHUNTER/Software_Development/Software_Engineering_Process.md)
+[Next](https://github.com/KKBUGHUNTER/Software_Development/blob/main/Software_Engineering_Process.md)
