@@ -1,5 +1,7 @@
 <br />
-<div align=center> <h1>Software Engineering Process</h1> </div>
+<div align=center> 
+  <h1> Methodologies paradigm and practices </h1>
+  <h2>1. Software Engineering Process</h2> </div>
 <br />
 <br />
 
