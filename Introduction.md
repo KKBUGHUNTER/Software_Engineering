@@ -61,7 +61,7 @@ Web 1.0 -> Mobile App -> Cloud App -> Product-line App
 
 <div align=center> <h3>
   
-  [Previous](https://github.com/KKBUGHUNTER/Software_Engineering)  -----------  [Next](https://github.com/KKBUGHUNTER/Software_Engineering/Software_Engineering_Life_Cycle-I.md)
+  [Previous](https://github.com/KKBUGHUNTER/Software_Engineering)  -----------  [Next](https://github.com/KKBUGHUNTER/Software_Engineering/blob/main/Software_Engineering_Life_Cycle-I.md)
   
   </p3> </div>
 <br />
