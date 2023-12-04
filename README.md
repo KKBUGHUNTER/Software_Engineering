@@ -27,8 +27,10 @@ Software Development
        - Incremental process model
        - Evolutionary process model
        - spiral Model 
-       - concurrent model 
-
+       - concurrent model
+  - [Software Project Plan & Planning Process](https://github.com/KKBUGHUNTER/Software_Engineering/blob/main/Software%20Project%20Plan%20%26%20Planning%20Process.md)
+      - Software Project Plan
+      - Planning Process
 ```md
 
 <div align=center> <h1>Title</h1> </div>
