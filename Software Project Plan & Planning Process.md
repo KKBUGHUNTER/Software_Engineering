@@ -13,8 +13,8 @@ A project plan is a series of formal documents that define the execution and con
     4. Change management
 
 ## Project Plan Granularity
-    - A high-granularity plan provides significant work task detail that is planned over relatively short time increments
-    - A low-granularity plan provides broader work tasks that are planned over longer time periods.
+  - A high-granularity plan provides significant work task detail that is planned over relatively short time increments
+  - A low-granularity plan provides broader work tasks that are planned over longer time periods.
 A high-granularity plan breaks work into small, detailed tasks for short timeframes, while a low-granularity plan outlines broader tasks scheduled over longer periods.
 <br>
 It encompasses five major activities − **estimation, scheduling, risk analysis, quality management planning,** and **change management planning.**
