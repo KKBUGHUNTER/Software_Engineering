@@ -146,7 +146,7 @@ Useful for projects where time-to-market is crucial, aiming to reduce overall de
 Developing a complex software solution where various teams work simultaneously on different modules or components to expedite the delivery schedule.
 <div align=center> <h3>
   
-  [Previous](https://github.com/KKBUGHUNTER/Software_Development/blob/main/Introduction.md)  -----------  [Next]()
+  [Previous](https://github.com/KKBUGHUNTER/Software_Engineering/blob/main/Software_Engineering_Life_Cycle-I.md)  -----------  [Next](https://github.com/KKBUGHUNTER/Software_Engineering/blob/main/Software%20Project%20Plan%20%26%20Planning%20Process.md)
   
   </p3> </div>
 <br />
