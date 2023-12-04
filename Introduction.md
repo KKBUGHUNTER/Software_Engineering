@@ -58,4 +58,11 @@ Web 1.0 -> Mobile App -> Cloud App -> Product-line App
 7. **Think:** Critical thinking and problem-solving skills are essential, encouraging software engineers to approach challenges with thoughtful analysis and creative solutions, promoting innovation and effectiveness.
 
 
-[Next](https://github.com/KKBUGHUNTER/Software_Development/blob/main/Software_Engineering_Life_Cycle-I.md)
+
+<div align=center> <h3>
+  
+  [Previous](https://github.com/KKBUGHUNTER/Software_Engineering)  -----------  [Next](https://github.com/KKBUGHUNTER/Software_Engineering/Software_Engineering_Life_Cycle-I.md)
+  
+  </p3> </div>
+<br />
+
